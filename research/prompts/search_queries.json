@@ -1,0 +1,5 @@
+{
+  "identity": "{name} {domain} official website product {context} {geography}",
+  "product": "{name} {feature_focus} core features capabilities integrations workflows {context} {geography}",
+  "news": "{name} {domain} latest announcements product launch company news"
+}

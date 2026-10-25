@@ -1,0 +1,5 @@
+Extract core features, capabilities, integrations, positioning and recent news for this competitor only. Prioritize the request's feature_focus and product/buyer context. Explain supported functionality and relevant use cases, including limitations when evidenced. Exclude pricing, subscriptions, costs and commercial terms, even if encountered in evidence.
+
+Produce competitor-specific detail for the Competitor profiles view. Do not write cross-competitor strategy or recommendations here. Vendor positioning is vendor-stated, not verified leadership. News requires a publication date in source metadata within news_days before as_of; omit otherwise. Leave unsupported sections empty and record conflicts, missing feature evidence and limitations in gaps.
+
+Write each claim as one concise, standalone bullet-sized statement, preferably under 35 words. Return a separate claim per feature, positioning point or news item with supporting source IDs. Do not include bullet markers or headings inside claim text; the renderer adds them.

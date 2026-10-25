@@ -1,0 +1,16 @@
+[theme]
+base = "dark"
+primaryColor = "#6366f1"
+backgroundColor = "#24262b"
+secondaryBackgroundColor = "#30333b"
+textColor = "#f3f4f6"
+linkColor = "#a5b4fc"
+borderColor = "#4b505b"
+
+[theme.sidebar]
+backgroundColor = "#2b2e34"
+secondaryBackgroundColor = "#363a43"
+textColor = "#f3f4f6"
+
+[server]
+headless = true
